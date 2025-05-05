@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Motorola Porjects
+🔭 I’m currently working on Motorola Projects
 🌱 I’m currently learning Angular and Python
 😄 Pronouns: My BF's callme Alexis, leshito
 ⚡ Fun fact: ⚽Soccer, 🎮video games, 🎵music,  
